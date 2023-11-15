@@ -1,0 +1,3 @@
+[submodule "node-minecraft-protocol"]
+	path = node-minecraft-protocol
+	url = https://github.com/vincss/node-minecraft-protocol.git
